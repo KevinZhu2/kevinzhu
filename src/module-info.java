@@ -1,0 +1,2 @@
+module org.kz.mryang {
+}
